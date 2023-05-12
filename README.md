@@ -34,7 +34,7 @@ curl --location '127.0.0.1:8088/user/login' \
 --header 'Content-Type: application/json' \
 --data '{
     "user_name": "zhangsan",
-    "password": "zhangli123"
+    "password": "zhangsan123"
 }'
 # output
 {
